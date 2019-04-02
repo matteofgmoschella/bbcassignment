@@ -1,5 +1,5 @@
 # bbcassignment
-Assignment
+Assignment - view `explanation.txt` for an outline on the choices I made.
 
 Prerequisites:
 - Download the latest version of [R](https://cran.r-project.org/mirrors.html) and [RStudio](https://www.rstudio.com/products/rstudio/download/)
