@@ -1,0 +1,9 @@
+Question 1: I downloaded the data and used R packages to change the data format (via lubridate), to filter the data effectively (with dplyr) and to calculate the proportion from mobile/tablet devices. I then plotted the results as a line chart. The answer to question 1 prints to the console.
+
+Question 2: I calculated the mean and filtered out the data greater than the mean, which I then wrote to file.
+
+This task could have been done using different tools – even non coding ones like Google Sheets or Microsoft Excel.
+
+The reason I chose to use R was for my own benefit as its the language I am most comfortable using for data anlalysis. Its best to do in code because it makes it very reproducible and I feel is R is easy to follow for a neophyte. 
+
+If the purpose of writing this tool is for my colleagues to use I would have probably used another language like Javascript and built it into a webpage or app. I used bbplot to style the chart after hearing BBC News journalist talking about the tool at a recent event.
